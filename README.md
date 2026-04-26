@@ -87,7 +87,6 @@ Geomatics and geophysical surveys for heritage conservation and reconstruction o
 
 - Grilli, F., Guarino, G., & Bockley, P. 2025. Novità dal teatro romano di Falerio Picenus (Falerone, FM): il sistema di deflusso idrico. In J. Bonotto (ed.), Architetture e sistemi costruttivi dei teatri e degli anfiteatri antichi in area adriatica. Costruire nel mondo antico 9. Quasar.
 
-- Montagnetti, R., & Guarino, G. 2021. From QGIS to Qfield and vice versa: how the new Android application is facilitating the work of the archaeologist in the field. MDPI.
 
 
 **Full publication list**: See CV documents in repository
@@ -129,7 +128,7 @@ Geomatics and geophysical surveys for heritage conservation and reconstruction o
   <img width="12" />
   <img src="https://dwconsulting.nl/wp-content/uploads/2022/03/GreyBlue-Corner6.png" height="40" alt="terrasurvey logo"  />
   <img width="12" />
-  <img src="[https://icon2.cleanpng.com/20180704/frz/aaxpnrtk4.webp](https://p1.hiclipart.com/preview/165/609/199/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart.jpg)" height="40" alt="autocad logo"  />
+  <img src="https://p1.hiclipart.com/preview/165/609/199/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart.jpg" height="40" alt="autocad logo"  />
   <img width="12" />
   <img src="https://www.goldensoftware.com/wp-content/uploads/2023/08/icon_Surfer_Old.png" height="40" alt="Surfer"  />  
   <img width="12" />
