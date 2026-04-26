@@ -162,10 +162,9 @@ Geomatics and geophysical surveys for heritage conservation and reconstruction o
 
 *Last updated: April 2026*
 
-## Github activity
-<img src="https://raw.githubusercontent.com/https://github.com/Heryx/https://github.com/Heryx/output/snake.svg" alt="Snake animation" />
 
-###****
+
+****
 <!--
 **Heryx/heryx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
