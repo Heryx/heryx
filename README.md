@@ -8,7 +8,7 @@
 
 ---
 
-## About
+## About me
 
 Archaeologist with a PhD from the University of Bologna, specialized in the application and integration of non-invasive investigation methods (geophysics and remote sensing) and stratigraphic excavation for the study of ancient landscapes.
 
@@ -29,6 +29,30 @@ Co-director of the **QARA+CSK Project** (Quarry Archaeological Risk Assessment +
 
 ---
 
+## Innovation & Software Development (Twin Transition)
+
+### ArcheoDoc | Web-App Developer
+**Archaeological digital documentation platform**
+- Development of TypeScript/Node.js platform for digital excavation documentation
+- AI-powered Quality Control system (Gemini/Claude/ChatGPT) for data consistency verification
+- Direct GeoPackage import with interactive WebMap visualization
+- Streamlining field-to-database workflows for archaeological projects
+  
+**Repository:** [(ArcheoDoc)](https://github.com/Heryx/archeodoc)
+  
+### Geosurveystudio / RasterLinker | QGIS Plugin Developer
+**Geophysical data management tool**
+- Development and publication on GitHub of plugin for structured management and sequential visualization of raster datasets (GPR slices)
+- Optimizing geophysical interpretation for preventive archaeology in QGIS environment
+- Open-source contribution to archaeological geophysics community
+  
+**Repository:** [(GeoSurveyStudio)](https://github.com/Heryx/GeoSurveyStudio))
+
+  
+
+
+---
+
 ## Education
 
 - **PhD in Historical and Archaeological Sciences** | University of Bologna (2025)
@@ -45,6 +69,40 @@ Co-director of the **QARA+CSK Project** (Quarry Archaeological Risk Assessment +
 
 
 ---
+
+## Preventive Archaeology Experience on Infrastructure Projects
+
+### 2026 (April-July) | Excavation Director – Ferrovie dello Stato (via Archeosistemi)
+**Project:** Preventive archaeological excavation of necropolis at Grottaminarda (AV) for railway works
+- Operational direction of archaeological excavation of necropolis
+- Coordination of site activities and supervision of archaeological personnel
+- Management of scientific documentation according to Ferrovie dello Stato standards
+- Interface with Superintendency for activity validation and protection of findings
+
+### 2021 | Surveyor – Gissi-Foggia Project for TERNA SPA (via Thetys srl, Rome)
+**Project:** Gissi-Foggia Power Line – Preventive archaeology surveys at San Martino in Pensilis (CB)
+- Surveyor for preventive archaeological surveys along high-voltage power line route
+- Archaeological site monitoring and scientific documentation
+
+### 2020 | Preventive Survey Specialist – Tarquinia Project for ENEL GREEN POWER (via Geostudi Astier SRL)
+**Project:** Preventive geophysical surveys for renewable energy facilities
+- Non-invasive geophysical prospections (GPR, magnetometry) for photovoltaic plant VPIA
+- Geophysical data processing and interpretation
+- Identification of anomalies of potential archaeological interest
+- Thematic mapping of archaeological risk and VPIA technical documentation
+
+### 2019 | Archaeologist – "La Fenice" Project, Senigallia (AN) (for Porta Mazzini s.r.l.)
+**Project:** Preventive archaeology surveys for building intervention
+- Stratigraphic excavation
+- Preparation of scientific report following MiC Guidelines
+
+### 2018 | Archaeologist – ANAS Licodia Eubea-A19 PA-CT Project (via GEA, Rome)
+**Project:** SSV Licodia Eubea – Connection with A19 Palermo-Catania Highway (Regalsemi Junction Section)
+- VPIA (Archaeological Risk Assessment) preparation for ANAS road infrastructure
+- Systematic archaeological field survey with QField
+- Production of thematic cartography and technical-scientific report following MiC Guidelines
+
+--- 
 
 ## Featured Projects
 
