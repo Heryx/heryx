@@ -207,7 +207,6 @@ Geomatics and geophysical surveys for heritage conservation and reconstruction o
 ## Contact
 
 📧 [guarino.archeo@gmail.com](mailto:guarino.archeo@gmail.com)  
-📱 +39 328 9562303  
 🔗 [ORCID](https://orcid.org/0000-0001-9260-4810) | [LinkedIn](https://www.linkedin.com/in/guarino-giuseppe/)
 
 ---
