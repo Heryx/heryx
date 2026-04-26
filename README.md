@@ -129,9 +129,7 @@ Geomatics and geophysical surveys for heritage conservation and reconstruction o
   <img width="12" />
   <img src="https://dwconsulting.nl/wp-content/uploads/2022/03/GreyBlue-Corner6.png" height="40" alt="terrasurvey logo"  />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/f8/AutoCad_new_logo.svg](https://icon2.cleanpng.com/20180704/frz/aaxpnrtk4.webp)" height="40" alt="autocad logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Claude_AI_symbol.svg" height="40" alt="claude ai logo"  />
+  <img src="[https://icon2.cleanpng.com/20180704/frz/aaxpnrtk4.webp](https://p1.hiclipart.com/preview/165/609/199/autodesk-logo-autocad-background-process-computer-program-symbol-drafter-red-triangle-png-clipart.jpg)" height="40" alt="autocad logo"  />
   <img width="12" />
   <img src="https://www.goldensoftware.com/wp-content/uploads/2023/08/icon_Surfer_Old.png" height="40" alt="Surfer"  />  
   <img width="12" />
