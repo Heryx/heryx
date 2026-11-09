@@ -1,6 +1,6 @@
 # Giuseppe Guarino, PhD
 
-**Archaeologist | Geophysical Prospection Specialist | Remote Sensing Expert**
+**Archaeologist | Geophysical Prospection | Remote Sensing**
 
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0001--9260--4810-green.svg)](https://orcid.org/0000-0001-9260-4810)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/guarino-giuseppe/)
